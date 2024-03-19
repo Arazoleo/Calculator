@@ -1,0 +1,252 @@
+body{
+    background: black;
+}
+.base{
+    background: rgb(65, 64, 64);
+    width: 20em;
+    height: 30em;
+    position: fixed;
+    left: 40%;
+    top: 30%;
+    transform: translate(-50, -50);
+}
+#one:hover{
+    background: linear-gradient(to bottom, gray, black);
+}
+#two:hover{
+    background: linear-gradient(to bottom, gray, black);
+}
+#three:hover{
+    background: linear-gradient(to bottom, gray, black);
+}
+#four:hover{
+    background: linear-gradient(to bottom, gray, black);
+}
+#five:hover{
+    background: linear-gradient(to bottom, gray, black);
+}
+#six:hover{
+    background: linear-gradient(to bottom, gray, black);
+}
+#seven:hover{
+    background: linear-gradient(to bottom, gray, black);
+}
+#eight:hover{
+    background: linear-gradient(to bottom, gray, black);
+}
+#nine:hover{
+    background: linear-gradient(to bottom, gray, black);
+}
+#zero:hover{
+    background: linear-gradient(to bottom, gray, black);
+}
+#point:hover{
+    background: linear-gradient(to bottom, gray, black);
+}
+#plus:hover{
+    background: linear-gradient(to bottom, gray, black);
+}
+#minus:hover{
+    background: linear-gradient(to bottom, gray, black);
+}
+#times:hover{
+    background: linear-gradient(to bottom, gray, black);
+}
+#division:hover{
+    background: linear-gradient(to bottom, gray, black);
+}
+
+#equals:hover{
+    background: linear-gradient(to bottom, gray, black);
+}
+
+#point:hover{
+    background: linear-gradient(to bottom, gray, black);
+}
+
+#clean:hover{
+    background: linear-gradient(to bottom, rgb(171, 10, 10), rgb(81, 5, 5));
+}
+#out{
+    
+    width: 
+    290px;
+    height: 4em;
+    position: relative;
+    top: 20px;
+    left: 10px;
+    color: white;
+    font-size: large;
+}
+
+#one{
+    background: gray;
+    color: white;
+    width: 50px;
+    height: 50px;
+    position: relative;
+    top: 80px;
+    left: 15px;
+    font-size: large;
+}
+
+#two{
+    background: gray;
+    color: white;
+    width: 50px;
+    height: 50px;
+    position: relative;
+    top: 80px;
+    left: 15px;
+    font-size: large;
+}
+#three{
+    background: gray;
+    color: white;
+    width: 50px;
+    height: 50px;
+    position: relative;
+    top: 80px;
+    left: 15px;
+    font-size: large;
+}
+#four{
+    background: gray;
+    color: white;
+    width: 50px;
+    height: 50px;
+    position: relative;
+    top: 160px;
+    left: -150px;
+    font-size: large;
+}
+#five{
+    background: gray;
+    color: white;
+    width: 50px;
+    height: 50px;
+    position: relative;
+    top: 160px;
+    left: -150px;
+    font-size: large;
+}
+#six{
+    background: gray;
+    color: white;
+    width: 50px;
+    height: 50px;
+    position: relative;
+    top: 160px;
+    left: -150px;
+    font-size: large;
+}
+#seven{
+    background: gray;
+    color: white;
+    width: 50px;
+    height: 50px;
+    position: relative;
+    top: 190px;
+    left: 15px;
+    font-size: large;
+}
+#eight{
+    background: gray;
+    color: white;
+    width: 50px;
+    height: 50px;
+    position: relative;
+    top:190px;
+    left: 15px;
+    font-size: large;
+}
+#nine{
+    background: gray;
+    color: white;
+    width: 50px;
+    height: 50px;
+    position: relative;
+    top: 190px;
+    left: 15px;
+    font-size: large;
+}
+#zero{
+    background: gray;
+    color: white;
+    width: 50px;
+    height: 50px;
+    position: relative;
+    top: 270px;
+    left: -90px;
+    font-size: large;
+}
+#plus{
+    background: gray;
+    color: white;
+    width: 50px;
+    height: 50px;
+    position: relative;
+    top: 110px;
+    left: -20px;
+    font-size: large;
+}
+#minus{
+    background: gray;
+    color: white;
+    width: 50px;
+    height: 50px;
+    position: relative;
+    top: 110px;
+    left: -10px;
+    font-size: large;
+}
+#times{
+    background: gray;
+    color: white;
+    width: 50px;
+    height: 50px;
+    position: relative;
+    top: 140px;
+    left: 196px;
+    font-size: large;
+}
+#division{
+    background: gray;
+    color: white;
+    width: 50px;
+    height: 50px;
+    position: relative;
+    top: 140px;
+    left: 206px;
+    font-size: large;
+}
+#clean{
+    background: red;
+    color: white;
+    width: 110px;
+    height: 50px;
+    position: relative;
+    top: -20px;
+    left: 90px;
+    font-size: large;
+}
+#equals{
+    background: gray;
+    color: white;
+    width: 90px;
+    height: 50px;
+    position: relative;
+    top: 220px;
+    left: -15px;
+    font-size: large;
+}
+#point{
+    background: gray;
+    color: white;
+    width: 50px;
+    height: 50px;
+    position: relative;
+    top: 171px;
+    left: 10px;
+    font-size: large;
+}
